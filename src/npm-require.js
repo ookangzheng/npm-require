@@ -1,5 +1,5 @@
 window.require = (function (modules) {
-  var registry_URL = 'https://wizardamigos-browserify-cdn.herokuapp.com/multi'
+  var registry_URL = 'https://browserify.datt.ml/multi'
   var require_URL = 'https://unpkg.com/npm-require'
   var nested = []
   var mypath = document.currentScript.getAttribute('src').split('#').pop()
