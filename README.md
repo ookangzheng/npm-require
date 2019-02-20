@@ -3,6 +3,10 @@ synchronous global require function for the browser to load commonjs modules fro
 
 https://www.npmjs.com/package/npm-require
 
+CDN: 
+short url: https://yerl.org/cMJFL
+Origin: https://rawcdn.githack.com/ookangzheng/npm-require/7be77900441ef6e202ed38ec030b01c9fb88942b/src/npm-require.js
+
 # demo
 ```html
 <!doctype html>
